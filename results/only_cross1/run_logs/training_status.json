@@ -1,0 +1,29 @@
+{
+    "CrossTheRoad": {
+        "checkpoints": [
+            {
+                "steps": 15670,
+                "file_path": "results\\only_cross1\\CrossTheRoad\\CrossTheRoad-15670.onnx",
+                "reward": null,
+                "creation_time": 1720077776.7664006,
+                "auxillary_file_paths": [
+                    "results\\only_cross1\\CrossTheRoad\\CrossTheRoad-15670.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15670,
+            "file_path": "results\\only_cross1\\CrossTheRoad.onnx",
+            "reward": null,
+            "creation_time": 1720077776.7664006,
+            "auxillary_file_paths": [
+                "results\\only_cross1\\CrossTheRoad\\CrossTheRoad-15670.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}

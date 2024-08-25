@@ -1,0 +1,56 @@
+{
+    "CrossTheRoad": {
+        "checkpoints": [
+            {
+                "steps": 303246,
+                "file_path": "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-303246.onnx",
+                "reward": null,
+                "creation_time": 1720165084.6831324,
+                "auxillary_file_paths": [
+                    "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-303246.pt"
+                ]
+            },
+            {
+                "steps": 411848,
+                "file_path": "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-411848.onnx",
+                "reward": 1.0,
+                "creation_time": 1720254261.8307292,
+                "auxillary_file_paths": [
+                    "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-411848.pt"
+                ]
+            },
+            {
+                "steps": 499983,
+                "file_path": "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-499983.onnx",
+                "reward": null,
+                "creation_time": 1720255011.8289547,
+                "auxillary_file_paths": [
+                    "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-499983.pt"
+                ]
+            },
+            {
+                "steps": 588134,
+                "file_path": "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-588134.onnx",
+                "reward": 1.0,
+                "creation_time": 1720255394.3992977,
+                "auxillary_file_paths": [
+                    "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-588134.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 588134,
+            "file_path": "results\\only_cross_random\\CrossTheRoad.onnx",
+            "reward": 1.0,
+            "creation_time": 1720255394.3992977,
+            "auxillary_file_paths": [
+                "results\\only_cross_random\\CrossTheRoad\\CrossTheRoad-588134.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}

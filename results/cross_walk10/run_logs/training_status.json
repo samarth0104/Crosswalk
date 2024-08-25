@@ -1,0 +1,47 @@
+{
+    "CrossTheRoad": {
+        "checkpoints": [
+            {
+                "steps": 339070,
+                "file_path": "results\\cross_walk10\\CrossTheRoad\\CrossTheRoad-339070.onnx",
+                "reward": 0.7949999999254942,
+                "creation_time": 1723280761.3307877,
+                "auxillary_file_paths": [
+                    "results\\cross_walk10\\CrossTheRoad\\CrossTheRoad-339070.pt"
+                ]
+            },
+            {
+                "steps": 499980,
+                "file_path": "results/cross_walk10\\CrossTheRoad\\CrossTheRoad-499980.onnx",
+                "reward": 1.0,
+                "creation_time": 1723369013.9945302,
+                "auxillary_file_paths": [
+                    "results/cross_walk10\\CrossTheRoad\\CrossTheRoad-499980.pt"
+                ]
+            },
+            {
+                "steps": 519942,
+                "file_path": "results/cross_walk10\\CrossTheRoad\\CrossTheRoad-519942.onnx",
+                "reward": 1.0,
+                "creation_time": 1723369084.3218284,
+                "auxillary_file_paths": [
+                    "results/cross_walk10\\CrossTheRoad\\CrossTheRoad-519942.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 519942,
+            "file_path": "results/cross_walk10\\CrossTheRoad.onnx",
+            "reward": 1.0,
+            "creation_time": 1723369084.3218284,
+            "auxillary_file_paths": [
+                "results/cross_walk10\\CrossTheRoad\\CrossTheRoad-519942.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}

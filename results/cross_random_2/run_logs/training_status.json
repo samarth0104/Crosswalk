@@ -1,0 +1,47 @@
+{
+    "CrossTheRoad": {
+        "checkpoints": [
+            {
+                "steps": 12289,
+                "file_path": "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-12289.onnx",
+                "reward": null,
+                "creation_time": 1720256083.659479,
+                "auxillary_file_paths": [
+                    "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-12289.pt"
+                ]
+            },
+            {
+                "steps": 1499995,
+                "file_path": "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-1499995.onnx",
+                "reward": null,
+                "creation_time": 1720418807.857802,
+                "auxillary_file_paths": [
+                    "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-1499995.pt"
+                ]
+            },
+            {
+                "steps": 1530457,
+                "file_path": "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-1530457.onnx",
+                "reward": null,
+                "creation_time": 1720418978.3670027,
+                "auxillary_file_paths": [
+                    "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-1530457.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1530457,
+            "file_path": "results\\cross_random_2\\CrossTheRoad.onnx",
+            "reward": null,
+            "creation_time": 1720418978.3670027,
+            "auxillary_file_paths": [
+                "results\\cross_random_2\\CrossTheRoad\\CrossTheRoad-1530457.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1+cu111"
+    }
+}
